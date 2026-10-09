@@ -1,0 +1,8 @@
+# 설치·실습이 만드는 생성물
+.claude/
+tasks-archive/
+docs/access-policy.md
+# /productivity:start 가 만드는 파일
+memory/
+dashboard.html
+.DS_Store

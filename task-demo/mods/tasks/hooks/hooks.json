@@ -1,0 +1,6 @@
+{
+  "description": "session.start(명령 · tool 등록) · classic.UserPromptSubmit(할 일 주입) · tool.call(변경 기록 · add · complete) · classic.Stop(1회 차단) · session.end(Done 보관) · command.run / ui.render(pane)",
+  "modules": [
+    "./register.tsx"
+  ]
+}

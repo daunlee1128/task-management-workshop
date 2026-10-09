@@ -1,0 +1,8 @@
+{
+  "name": "workshop-mods",
+  "owner": { "name": "workshop" },
+  "description": "실습용 tasks mod marketplace",
+  "plugins": [
+    { "name": "tasks", "source": "./tasks" }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "tasks",
+  "version": "0.3.0",
+  "description": "TASKS.md 관리: 상태줄 요약 · /tasks-pane pane(fullscreen이면 우측 도킹) · 모델용 add · complete tool · 매 턴 할 일 주입 · 파일을 바꾼 턴에 TASKS.md가 그대로면 종료 1회 차단 · session 끝에 Done을 tasks-archive로 보관",
+  "author": {
+    "name": "workshop"
+  }
+}
